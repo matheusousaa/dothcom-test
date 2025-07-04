@@ -1,4 +1,4 @@
-# Test feito para processo seletivo para Dothcom
+# Teste feito para processo seletivo para Dothcom
 
 Este é um pequeno projeto em PHP que consome uma API pública (`https://aj.dev.br/f`) e retorna:
 
